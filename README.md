@@ -23,3 +23,5 @@ An improvement I would like to make is to create a star schema and implement dat
  - Example:
    - Fact table with columns object_id, approach_id.
    - Dimension tables: dim_size with columns such as object_id, min_size, max_size, average_size. dim_approach with columns approach_id, date, time, miss_distance,       velocity.
+  
+NOTE: API_KEY left in repo as it's a free key so no security risks
